@@ -1,0 +1,9 @@
+div{
+    height:100px;
+    width: 100px ;
+    border-radius: 10px;
+    background-color: rgb(242, 242, 44);
+}
+#one{
+    background-color: rgb(102, 102, 237);
+}
