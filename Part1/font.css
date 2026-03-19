@@ -4,7 +4,7 @@ p{
      text-decoration-line: grammar-error;
 }
 p{
-    font-weight: 900;
+    font-weight: 100;
 
     /* text-decoration: underline overline; */
     /* text-decoration: aquamarine; */
@@ -13,21 +13,29 @@ p{
     /* text-decoration: underline dotted; */
     /* text-decoration: line-through; */
 
-    text-decoration: aqua wavy underline;
+    text-decoration: aqua  underline;
     /* text-decoration-line: grammar; */
     /* text-decoration-line: grammar error; */
+    line-height: 2.5;
    
 }
 div{
     font-weight: bolder;
      text-decoration-line: grammar-error;
      text-decoration-line: revert;
-     text-decoration: pink line-through;
+     /* text-decoration: pink line-through; */
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     line-height: 6;
 }
 H1{
     font-weight: 900;
     text-align: center;
     text-decoration: wavy blue   underline;
+}
+h2{
+       text-align: center;
+       font-size: larger;
+       font-weight: bolder;
 }
 a{
     text-decoration: none;
