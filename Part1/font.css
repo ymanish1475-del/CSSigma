@@ -4,6 +4,9 @@ H1{
     text-align: center;
     text-decoration: wavy red   underline;
     letter-spacing: 5px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-family: impact;
 }
 
 p{
@@ -29,15 +32,16 @@ p{
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
    /* font-size: ; */
-   font-family: Georgia, 'Times New Roman', Times, serif;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   font-family: Arial, Helvetica, sans-serif;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   font-family: 'Times New Roman', Times, serif;
+   /* font-family: Georgia, 'Times New Roman', Times, serif; */
+   /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+   /* font-family: Arial, Helvetica, sans-serif; */
+   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+   /* font-family: 'Times New Roman', Times, serif;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-family: ;
 }
 div{
     font-weight: bolder;
