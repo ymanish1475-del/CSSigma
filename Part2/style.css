@@ -1,0 +1,20 @@
+
+
+*{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* h3{
+    color: #ef0b0b;
+} */
+h1,h3{
+    color: #b92b27;
+}
+#login{
+    background-color: #0866ff;
+    color:white;
+}
+#signup{
+    background-color: #31a24c;
+    color: white;
+}
