@@ -18,3 +18,15 @@ h1,h3{
     background-color: #31a24c;
     color: white;
 }
+.up{
+    background-color:  #73f83f;
+}
+/* desendent selector  */
+
+p a{
+    color: purple;
+    background-color: yellow;
+}
+nav ul li a{
+    color: rgb(253, 110, 134);
+}
