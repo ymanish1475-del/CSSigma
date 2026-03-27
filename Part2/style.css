@@ -83,3 +83,13 @@ div:nth-of-type(n){
 }
 
 /* pseudoclass */
+/* pseudo element */
+h1::first-letter{
+    color: orangered;
+}
+#p::first-line{
+    color: cadetblue;
+}
+#p::selection{
+    background-color: #31a24c;
+}
