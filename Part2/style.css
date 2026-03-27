@@ -66,7 +66,20 @@ p:active{
     font-weight: bold;
     color: red;
 }
-input[type="radio"]:checked + label {
+
+input[type="radio"]:checked+label {
     color: orangered;
     font-weight: bolder;
 }
+input[type="checkbox"]:checked+label {
+    color: orangered;
+    font-weight: bolder;
+}
+.post:nth-of-type(2){
+    background-color: wheat;
+}
+div:nth-of-type(n){
+    background-color: wheat;
+}
+
+/* pseudoclass */
