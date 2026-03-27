@@ -23,10 +23,25 @@ h1,h3{
 }
 /* desendent selector  */
 
-p a{
+/* p a{
+    color: purple;
+    background-color: yellow;
+} */
+
+.post a{
     color: purple;
     background-color: yellow;
 }
 nav ul li a{
     color: rgb(253, 110, 134);
+}
+
+.up + button{
+    background-color: rgb(119, 161, 239);
+}
+
+/* chuld selector */
+div > input{
+    background-color: rgb(141, 210, 91);
+    /* color: red; */
 }
