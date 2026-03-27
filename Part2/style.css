@@ -40,8 +40,33 @@ nav ul li a{
     background-color: rgb(119, 161, 239);
 }
 
-/* chuld selector */
+/* child selector */
 div > input{
     background-color: rgb(141, 210, 91);
     /* color: red; */
+}
+/* ATTRIBUTE SELECTOR */
+input[type="text"]{
+    color: red;
+}
+input[type="password"]{
+    color:red;
+}
+input[type]{
+    background-color: rgb(80, 136, 239);
+}
+button:hover{
+    background-color: aqua;
+    color: coral;
+}
+button:active{
+    background-color: red;
+}
+p:active{
+    font-weight: bold;
+    color: red;
+}
+input[type="radio"]:checked + label {
+    color: orangered;
+    font-weight: bolder;
 }
