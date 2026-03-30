@@ -93,3 +93,10 @@ h1::first-letter{
 #p::selection{
     background-color: #31a24c;
 }
+
+h3{
+    background-color: yellow;
+}
+h3{
+    background-color: rgb(162, 254, 2);
+}
