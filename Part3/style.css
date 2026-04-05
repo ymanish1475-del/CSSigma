@@ -1,13 +1,22 @@
 
 div{
-    height: 250px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     background-color: palegreen;
     border-width: 5px solid pink;
     border-color: blueviolet;
     border-style: solid;
     border-bottom: red 4px solid ;
     border-right: red 4px solid;
+    border-radius: 5px;
+    /* border-radius: 12% 4%; */
+    border-radius: 2% 12%;
+    text-align: center;
+    text-align: justify;
+    /* text-overflow: calc(); */
+    /* text-decorati; */
+    /* border-left-style: dashed;
+    border-left-color: ; */
 
     /* border-bottom: red; */
     /* border-top-left-radius: red 4px solid; */
