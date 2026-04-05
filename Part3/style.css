@@ -1,0 +1,21 @@
+
+div{
+    height: 250px;
+    width: 500px;
+    background-color: palegreen;
+    border-width: 5px solid pink;
+    border-color: blueviolet;
+    border-style: solid;
+    border-bottom: red 4px solid ;
+    border-right: red 4px solid;
+
+    /* border-bottom: red; */
+    /* border-top-left-radius: red 4px solid; */
+}
+h1{
+    border-width: 4px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-bottom: red 4px solid ;
+    border-right: red 4px solid;
+}
