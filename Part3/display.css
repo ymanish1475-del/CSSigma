@@ -1,0 +1,18 @@
+h2{
+    display: inline;
+    background-color: aqua;
+}
+span{
+     /* display: block; */
+    /* background-color: aquamarine; */
+    padding: 50px;  /*padding only set in L AND r*/
+    border: solid 2px black;
+    margin: 20px; /*only l r*/
+}
+div{
+    padding: 50px;  /*padding only set in L AND r*/
+    border: solid 2px black;
+    margin: 20px;
+    height:  150px;
+    width: 200px;
+}
