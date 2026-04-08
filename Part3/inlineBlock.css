@@ -11,3 +11,8 @@ div{
 #fo{
     display: none;
 }
+h1{
+    border: solid 2px burlywood;
+    /* width: 33.33%; */
+    width: 40%;
+}
