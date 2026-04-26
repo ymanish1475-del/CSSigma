@@ -4,3 +4,17 @@ h1{
     /* width: 33.33%; */
     width: 40%;
 }
+#outer{
+    height: 400px;
+    width: 400px;
+    /* border: solid black 2px; */
+    background-color: aqua;
+    margin: 50px;
+}
+#inner{
+    height: 150px;
+    width: 150px;
+    /* border: solid black 2px; */
+    background-color: palegreen;
+    /* padding: 10px; */
+}
